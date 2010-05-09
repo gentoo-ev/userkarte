@@ -1,0 +1,50 @@
+p,td,li,h1,h2,h3,h4,h5 { font-family: Arial, Helvetica, Verdana; }
+body.text { scrollbar-base-color:#ff0000; }
+
+/* Class "Text" */
+td.text { background-color: #eeeeee; }
+td.text { color:#555555; }
+td.text { font-size:14px; font-weight:normal; }
+td.text td { font-size:14px; font-weight:normal; }
+td.text td { color:#555555; }
+//td.text h1 { font-size:22px; font-weight:bold; }
+//td.text h2 { font-size:20px; font-weight:bold; }
+//td.text h3 { font-size:18px; font-weight:bold; }
+//td.text h4 { font-size:16px; font-weight:bold; }
+//td.text h5 { font-size:14px; font-weight:bold; }
+
+//td.text div { margin-top:3px; }
+//td.text div { margin-bottom:4px; }
+//td.text div { margin-left:8px; }
+//td.text div { margin-right:0px; }
+//td.text div { margin-top:0px; }
+
+//td.text td.klein { font-size:11px; }
+//td.text td.farbe { background-color:#FF0066; font-size:11px;  color: White;  padding: 1px 5px;}
+td.text a:link { color:#444444; text-decoration:none; font-weight:normal; }
+//td.nav a:active { color:#FF0000; text-decoration:none; font-weight:normal; }
+td.text a:visited { color:#444444; text-decoration:none; font-weight:normal; }
+td.text a:hover { color:#FF3333; text-decoration:underline; font-weight:normal; }
+
+/* Class "Nav" */
+td.nav { background-color:#e7e7e7; }
+td.nav { color:#333333; }
+td.nav td { font-size:13px; }
+td.nav a:link { color:#777777; text-decoration:none; font-weight:normal; }
+td.nav a:visited { color:#777777; text-decoration:none; font-weight:normal; }
+td.nav a:hover { color:#FF3333; text-decoration:underline; font-weight:normal; }
+td.nav { border-width:1px; border-color:#090909; border-style:solid; }
+
+/* Class "Info" */
+td.info { background-color:#eeeeee; }
+//td.info { background-color:#ffffff; }
+//td.nav { color:#ff3333; }
+//td.nav { font-family: ArialVerdana; }
+//td.nav { font-size:12px; }
+//td.nav td { font-size:12px; }
+//td.nav h3 { color:#555555; }
+//td.nav a:link { color:#cccccc; text-decoration:none; font-weight:normal; }
+//td.nav a:active { color:#FF0066; text-decoration:none; font-weight:normal; }
+//td.nav a:visited { color:#333333; text-decoration:none; font-weight:normal; }
+//td.nav a:hover { color:#FF0066; text-decoration:underline; font-weight:normal; }
+

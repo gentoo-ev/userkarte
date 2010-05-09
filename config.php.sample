@@ -1,0 +1,12 @@
+<?php
+
+define( "DB_HOST", "localhost" );
+define( "DB_USER", "userkarte" );
+define( "DB_PW", "password" );
+
+define( "DATABASE", "userkarte" );
+define( "TABLE", "tblUsers" );
+define( "ADMIN_USERNAME", "webadmin" );
+define( "ADMIN_PASSWORD", "password" );
+
+?>

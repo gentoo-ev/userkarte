@@ -1,0 +1,8 @@
+div#body {
+  font-family: Verdana,Arial,Helvetica,sans-serif;
+  font-size: 12px;
+  position: absolute;
+  left: 250px;
+  right: 230px;
+  visibility: visible;
+}
