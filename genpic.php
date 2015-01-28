@@ -50,7 +50,7 @@ $outermedium = ImageColorAllocate( $picture, 200, 0, 0 );
  * 1: Vorschau
  *
  */
-$mode = $HTTP_GET_VARS['mode'];
+$mode = $_GET['mode'];
 
 if( $mode == 0 ) {
   // Gesamt
