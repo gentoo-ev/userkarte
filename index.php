@@ -318,7 +318,7 @@ if( isset($values["N_grad"]) &&
      </tr>
      <tr>
         <td><p align="justify">Falls Sie ihre Koordinaten nicht zur Hand haben, k&ouml;nnen sie diese kostenfrei auf der Seite
-        <a href='http://www.themamundi.de/aws/tabel/tbmain.htm'>Thema Mundi</a> erfahren.</p></td>
+        <a href='http://www.themamundi.de/astrologie-tabellen/'>Thema Mundi</a> (Stichwort <em>Ortskoordinaten</em>) erfahren.</p></td>
      </tr>
      <tr>
 	<form name="naviform" action='<?=$HTTP_SERVER_VARS["REQUEST_URI"]?>' method="post">
